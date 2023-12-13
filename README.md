@@ -2,6 +2,15 @@
 
 ## PROJECT GROUPS
 ```
+- customer-and-marketing-analytics
+    - rfm-segmentation
+    - churn-analysis
+    - clv-analysis
+    - conjoint-analysis
+    - a/b-testing-experimentation
+    - multi-armed-bandit-experimentation
+    - bg/nbd-model
+- credit-scoring-analytics
 ```
 ## FOLDER STRUCTURE
 ```
